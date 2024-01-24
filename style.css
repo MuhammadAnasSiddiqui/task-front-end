@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+.nav_1_row {
+    width: 40%;
+}
+
+.nav_2_row {
+    width: 40%;
+}
+
+.nav_1_row li {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.nav_2_row li {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.first_sec h1 {
+    font-size: 4rem;
+}
+
+.first_sec {
+    background-color: #fff3f6;
+}
+
+.first_sec a{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.view_btn:hover{
+    background-color: black;
+    color : white !important;
+    transition: all ease 0.2s   ;
+}
